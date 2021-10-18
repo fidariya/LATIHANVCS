@@ -11,3 +11,6 @@ Masukan perintah dengan menggunakan kode " git add " contoh, " git add Labs_tab_
 ### Keempat, untuk menyimpan perubahan tetapi tidak ada perubahan pada remote repository
 Maka masukan perintah git commit -m "", pada tanda kutip tersebut berguna untuk memasukan nama project. Seperti pada gambar dibawah ini,                                                                               
 ![Gambar](capture/ss3.png)
+### Kelima, git status
+git status merupakan pengechekan pada status file yang kita buat.
+![Gambar](capture/ss4.png)
