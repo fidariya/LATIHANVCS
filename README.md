@@ -16,4 +16,4 @@ git status merupakan pengechekan pada status file yang kita buat.
 ![Gambar](capture/ss4.png)
 ### Keenam, git push
 Memasukan kode " git push -u origin main "
-![Gambar] (capture/ss5.png)
+![Gambar](capture/ss5.png)
