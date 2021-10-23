@@ -1,6 +1,9 @@
 # LATIHANVCS
 ## Tutorial Cara Penggunaan git
 
+### Pertama, Download terlebih dahulu git.bash
+Buka website di (git-scm.com)  
+![Gambar](capture/ss7.png)
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
 lakukan dengan memasukan code clone yang sudah dicopy pada github, seperti gambar dibawah ini:
