@@ -5,9 +5,8 @@
 Buka website di (git-scm.com), setelah itu klik donwload pada gambar yang berbentuk layar komputer.  
 ![Gambar](capture/ss7.png)
 ### Kedua, Setelah terinstal langsung kita buka file download git.bash tadi
-Dan tampilannya seperti gambar dibawah ini, lalu kita klik next terus menurus sampai tampilannya seperti gambar dibawah ini.                                                        
+Lalu kita klik next terus menurus sampai tampilannya seperti gambar dibawah ini.                                                        
 ![Gambar](capture/ss8.png)
-![Gambar](capture/ss9.png)
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
 lakukan dengan memasukan code clone yang sudah dicopy pada github, seperti gambar dibawah ini:
