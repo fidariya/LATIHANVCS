@@ -2,7 +2,7 @@
 ## Tutorial Cara Penggunaan git
 
 ### Pertama, Download terlebih dahulu git.bash
-Buka website di (git-scm.com)  
+Buka website di (git-scm.com), setelah itu klik donwload pada gambar yang berbentuk layar komputer.  
 ![Gambar](capture/ss7.png)
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
