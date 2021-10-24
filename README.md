@@ -7,7 +7,9 @@ Buka website di (git-scm.com), setelah itu klik donwload pada gambar yang berben
 ### Kedua, Setelah terinstal langsung kita buka file download git.bash yang sudah kita instal.
 Lalu kita klik next terus menurus sampai tampilannya seperti gambar dibawah ini. Jika tampilannya sudah seperti gambar dibawah ini git bash sudah bisa dipakai.                                                         
 ![Gambar](capture/ss8.png)
-### Ketiga, 
+### Ketiga, Menghubungkan git hub dengan git bash
+Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus mempunyai akun git hub terlebih dahulu. Jika belum mempunyai akun git hub harus daftar terlebih dahulu, unntuk proses pendaftaran bisa dilihat dengan cara dibawah ini.                                                 
+1. 
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
 lakukan dengan memasukan code clone yang sudah dicopy pada github, seperti gambar dibawah ini:
