@@ -8,7 +8,7 @@ Buka website di (git-scm.com), setelah itu klik donwload pada gambar yang berben
 Lalu kita klik next terus menurus sampai tampilannya seperti gambar dibawah ini. Jika tampilannya sudah seperti gambar dibawah ini git bash sudah bisa dipakai.                                                         
 ![Gambar](capture/ss8.png)
 ### Ketiga, Masuk akun github
-Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus mempunyai akun git hub terlebih dahulu. Jika belum mempunyai akun git hub harus daftar terlebih dahulu, unntuk proses pendaftaran dan menghubungkan pada git bash bisa dilihat dengan cara dibawah ini.                                                 
+Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus mempunyai akun git hub terlebih dahulu. Jika belum mempunyai akun git hub harus daftar terlebih dahulu, unntuk proses pendaftaran bisa dilihat dengan cara dibawah ini.                                                 
 1. Masuk ke browser git hub dengan mengklik link github.com
 2. Jika sudah masuk ke web github, maka tampilannya seperti ini lalu kita klik bagian yang dilingkari pada gambar dibawah ini.                                                 
 ![Gambar](capture/ss9.png)
