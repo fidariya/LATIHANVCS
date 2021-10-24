@@ -25,6 +25,9 @@ Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus memp
 8. Kita copy terlebih dahulu kode file repository seperti gambar dibawah ini yang ditunjukan oleh kursor.
 ![Gambar](capture/ss15.png)
 
+## Menghubungkan github dengan gitbash melalui email, seperti cara dibawah ini:
+
+
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
 lakukan dengan memasukan code clone yang sudah dicopy pada github, seperti gambar dibawah ini:
