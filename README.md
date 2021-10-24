@@ -22,6 +22,8 @@ Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus memp
 ![Gambar](capture/ss13.png)
 7. Ini merupakan tampilan jika anda sudah membuat repsitory.
 ![Gambar](capture/ss14.png)
+8. Kita copy terlebih dahulu kode file repository seperti gambar dibawah ini yang ditunjukan oleh kursor.
+![Gambar](capture/ss15.png)
 
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
