@@ -4,8 +4,8 @@
 ### Pertama, Download terlebih dahulu git.bash
 Buka website di (git-scm.com), setelah itu klik donwload pada gambar yang berbentuk layar komputer.  
 ![Gambar](capture/ss7.png)
-### Kedua, Setelah terinstal langsung kita buka file download git.bash tadi
-Lalu kita klik next terus menurus sampai tampilannya seperti gambar dibawah ini.                                                        
+### Kedua, Setelah terinstal langsung kita buka file download git.bash yang sudah kita instal.
+Lalu kita klik next terus menurus sampai tampilannya seperti gambar dibawah ini. Jika tampilannya sudah seperti gambar dibawah ini git bash sudah bisa dipakai.                                                         
 ![Gambar](capture/ss8.png)
 ### Ketiga, 
 ### Pertama, tentukan file untuk penempatan file projcet github
