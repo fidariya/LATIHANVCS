@@ -9,7 +9,10 @@ Lalu kita klik next terus menurus sampai tampilannya seperti gambar dibawah ini.
 ![Gambar](capture/ss8.png)
 ### Ketiga, Menghubungkan git hub dengan git bash
 Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus mempunyai akun git hub terlebih dahulu. Jika belum mempunyai akun git hub harus daftar terlebih dahulu, unntuk proses pendaftaran bisa dilihat dengan cara dibawah ini.                                                 
-1. 
+1. Masuk ke browser git hub dengan mengklik link github.com
+2. Jika sudah masuk ke web github, maka tampilannya seperti ini lalu kita klik bagian yang dilingkari pada gambar dibawah ini.                                                 
+![Gambar](capture/ss9.png)
+
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
 lakukan dengan memasukan code clone yang sudah dicopy pada github, seperti gambar dibawah ini:
