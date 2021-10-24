@@ -31,7 +31,6 @@ Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus memp
 Untuk "You@example.com" adalah memasukan email yang digunakan untuk akun github, sedangkan "Your Name" adalah nama akun anda. Seperti contoh dibawah ini.                           
 ![Gambar](capture/ss16.png)
 ### Kedua, Setelah berhasil memasukan email dan user name. Tentukan file untuk penempatan file projcet github
-![Gambar](capture/ss17.png)
 ### Ke tiga, memasukan kode clone
 lakukan dengan memasukan code clone yang sudah dicopy pada github, seperti gambar dibawah ini:
 ![Gambar](capture/ss1.png)
