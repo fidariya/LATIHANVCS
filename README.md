@@ -27,21 +27,24 @@ Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus memp
 
 ## Menghubungkan github dengan gitbash melalui email, seperti cara dibawah ini:
 
-
-### Pertama, tentukan file untuk penempatan file projcet github
-### Kedua, memasukan kode clone
+### Pertama, gunakan perintah git config --global user.email "you@example.com" dan git config --global user.name "Your Name"                                            
+Untuk "You@example.com" adalah memasukan email yang digunakan untuk akun github, sedangkan "Your Name" adalah nama akun anda. Seperti contoh dibawah ini.                           
+![Gambar](capture/ss16.png)
+### Kedua, Setelah berhasil memasukan email dan user name. Tentukan file untuk penempatan file projcet github
+![Gambar](capture/ss17.png)
+### Ke tiga, memasukan kode clone
 lakukan dengan memasukan code clone yang sudah dicopy pada github, seperti gambar dibawah ini:
 ![Gambar](capture/ss1.png)
-### Ketiga, menambahkan file
+### Ke empat, menambahkan file
 Masukan perintah dengan menggunakan kode " git add " contoh, " git add Labs_tab_dasar.html"
 ![Gambar](capture/ss2.png)
-### Keempat, untuk menyimpan perubahan tetapi tidak ada perubahan pada remote repository
+### Ke limat, untuk menyimpan perubahan tetapi tidak ada perubahan pada remote repository
 Maka masukan perintah git commit -m "", pada tanda kutip tersebut berguna untuk memasukan nama project. Seperti pada gambar dibawah ini,                                                                               
 ![Gambar](capture/ss3.png)
-### Kelima, git status
+### Ke tujuh, git status
 git status merupakan pengechekan pada status file yang kita buat.
 ![Gambar](capture/ss4.png)
-### Keenam, git push
+### Kee delapan, git push
 Memasukan kode " git push -u origin main "
 ![Gambar](capture/ss5.png)
 ### Hasil dari pengkodean yang sudah dilakukan pada github
