@@ -20,7 +20,8 @@ Sebelum menghubungkan git hub dan git bash untuk membuat folder, kita harus memp
 ![Gambar](capture/ss12.png)
 6. Tampilan dibawah ini setelah anda mengklik new, lalu anda dapat mengisi nama repository dan pada gambar dibawah ini ada pilihan publik atau privat jika anda ingin mengklik publik anda dapat mengklik pilihan tersebut. Lalu klik pilihan add a readme file setelah itu klik create repository.
 ![Gambar](capture/ss13.png)
-7. 
+7. Ini merupakan tampilan jika anda sudah membuat repsitory.
+![Gambar](capture/ss14.png)
 
 ### Pertama, tentukan file untuk penempatan file projcet github
 ### Kedua, memasukan kode clone
